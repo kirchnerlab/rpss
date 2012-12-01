@@ -1,5 +1,5 @@
 ==============================================================================
-    rlib - (more or less sorted) collection of R scripts
+    rpss - a few R scripts for profile similarity screening
 ==============================================================================
 
 This is a somewhat loose collection of useful R code snippets, functions and 
