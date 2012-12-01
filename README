@@ -1,0 +1,18 @@
+==============================================================================
+    rlib - (more or less sorted) collection of R scripts
+==============================================================================
+
+This is a somewhat loose collection of useful R code snippets, functions and 
+scripts which do not really warrant separate R packages.
+
+== 1. Documentation ==
+Every file should be somewhat self-documenting. Please add a larger comment
+at the top of each file; comment on what the code does, preconditions that
+need to be met, parameter descriptions, error states, etc. Also provide a
+line that mentions who contributed the code and how to contact them.
+
+== 2. Contributors ==
+Current contributors (in alphabetical order) are:
+    Marc Kirchner <firstname.lastname@childrens.harvard.edu>
+
+
